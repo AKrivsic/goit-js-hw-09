@@ -46,5 +46,5 @@ emailInput.addEventListener('focus', () => {
 });
 
 emailInput.addEventListener('blur', () => {
-    emailInput.placeholder = "";
+  emailInput.placeholder = "";
 });
